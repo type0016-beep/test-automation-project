@@ -8,3 +8,4 @@
   - `locators` – локаторы элементов страниц
 
 ## Структура проекта
+"# test-automation-project" 
